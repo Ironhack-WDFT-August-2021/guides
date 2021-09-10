@@ -16,7 +16,7 @@ $ ironlauncher <ProjectName>
 ```bash
 $ git init
 $ git add .
-$ git commit -m 'initiall commit'
+$ git commit -m 'initial commit'
 $ git push origin master
 ```
 
