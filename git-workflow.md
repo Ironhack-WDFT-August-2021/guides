@@ -50,4 +50,4 @@ We switch to our own branch that we just pushed to GitHub:
 
 Now we merge the master branch into the branch we are currently in:
     
-    git merge masterkk
+    git merge master
