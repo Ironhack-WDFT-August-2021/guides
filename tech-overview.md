@@ -17,7 +17,6 @@
 # Additional Tools, Libraries etc
 
 ### CSS 
-* [Bem Naming Convention](http://getbem.com/naming/)
 * [SASS](https://sass-lang.com/) 
 
 #### style.scss -> you can nest elements in the sass file
